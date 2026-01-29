@@ -1,0 +1,61 @@
+ <!doctype html>
+ <html lang="en">
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Chatbot Interface</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+ </head>
+ <body>
+  <div class="container">
+    <div class="hero">
+      <div class="brand-badge">Smart Health Assistance</div>
+      <div class="tagline">Quick, doctor-style consultation and PDF Q&A</div>
+      <button id="ingestBtn" class="glow-btn">Build Index</button>
+    </div>
+    <div class="consult-card" id="consultCard">
+      <h2>Guided Consultation</h2>
+      <div class="chat-like">
+        <div class="msg bot">Hi! I’ll help you with a quick health summary.</div>
+      </div>
+      <form id="consultForm">
+        <label>Patient Name</label>
+        <input type="text" id="c_name" placeholder="Your name" required>
+        <label>Age</label>
+        <input type="number" id="c_age" placeholder="Your age" required>
+        <label>Gender</label>
+        <input type="text" id="c_gender" placeholder="Male / Female / Other" required>
+        <label>Severity</label>
+        <div class="severity">
+          <label><input type="radio" name="severity" value="Mild" checked> Mild</label>
+          <label><input type="radio" name="severity" value="Moderate"> Moderate</label>
+          <label><input type="radio" name="severity" value="Severe"> Severe</label>
+        </div>
+        <label>Main Symptoms (comma separated)</label>
+        <input type="text" id="c_symptoms" placeholder="e.g., fever, headache" required>
+        <label>Duration</label>
+        <input type="text" id="c_duration" placeholder="e.g., 2 days, 1 week" required>
+        <label>Suspected Disease (optional)</label>
+        <input type="text" id="c_disease" placeholder="e.g., Dengue">
+        <button type="submit" id="consultBtn">Submit Consultation</button>
+      </form>
+      <div id="consultResult" class="result"></div>
+      <button id="downloadBtn" style="display:none">📄 Download Health Report</button>
+    </div>
+     <div class="suggest">
+       <button class="chip" data-q="Give a symptom summary">Symptom Summary</button>
+       <button class="chip" data-q="Build a timeline of events">Timeline</button>
+       <button class="chip" data-q="List prior tests and results">Test History</button>
+       <button class="chip" data-q="Any red-flag alerts?">Red Flags</button>
+     </div>
+     <div class="chat-card" id="chatCard">
+       <div class="chat-log" id="chatlog"></div>
+       <div class="input-row">
+         <input type="text" id="question" placeholder="Type your message here" required>
+         <button id="sendBtn">Send</button>
+       </div>
+     </div>
+   </div>
+   <script src="{{ url_for('static', filename='app.js') }}"></script>
+ </body>
+ </html>

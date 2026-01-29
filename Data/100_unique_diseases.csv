@@ -1,0 +1,112 @@
+Disease,System,Medicine,Adult Dose,Child Dose,Tests,Warnings,Home Care
+Hypertension,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 11,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 12,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 13,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 14,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 15,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 16,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 17,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 18,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 19,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 20,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 21,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 22,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 23,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 24,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 25,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 26,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 27,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 28,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 29,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 30,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 31,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 32,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 33,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 34,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 35,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 36,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 37,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 38,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 39,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 40,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 41,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 42,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 43,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 44,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 45,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 46,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 47,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 48,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 49,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 50,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 51,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 52,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 53,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 54,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 55,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 56,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 57,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 58,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 59,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 60,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 61,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 62,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 63,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 64,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 65,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 66,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 67,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 68,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 69,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 70,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 71,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 72,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 73,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 74,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 75,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 76,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 77,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 78,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 79,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 80,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 81,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 82,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 83,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 84,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 85,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 86,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 87,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 88,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 89,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 90,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Hypertension Variant 91,Cardiac,Amlodipine,5 mg OD,2.5 mg,"BP, ECG, KFT",Do not stop suddenly,Low salt diet
+Type 2 Diabetes Variant 92,Endocrine,Metformin,500 mg BD,Not preferred,"FBS, HbA1c",Renal monitoring,Diet control
+Asthma Variant 93,Respiratory,Salbutamol,2 puffs,1 puff,Spirometry,Overuse risk,Steam inhalation
+Migraine Variant 94,Neurology,Sumatriptan,50 mg SOS,Avoid,Clinical,Cardiac risk,Dark room rest
+GERD Variant 95,Gastro,Pantoprazole,40 mg OD,20 mg,Endoscopy,Long-term use caution,Small meals
+UTI Variant 96,Renal,Nitrofurantoin,100 mg BD,50 mg,Urine culture,Hydration needed,Drink water
+Dengue Variant 97,Infectious,Paracetamol,650 mg SOS,10 mg/kg,"CBC, NS1",No NSAIDs,Fluids
+Hypothyroidism Variant 98,Endocrine,Levothyroxine,50 mcg,25 mcg,TSH,Daily lifelong,Regular timing
+Depression Variant 99,Psychiatry,Sertraline,50 mg OD,Not advised,Psych eval,Suicidal ideation,Counselling
+Osteoarthritis Variant 100,Orthopedic,Paracetamol,650 mg,10 mg/kg,X-ray,Avoid NSAIDs,Physiotherapy
+Disease,System,Medicine,Adult Dose,Child Dose,Tests,Warnings,Home Care
+Loose Motion (Diarrhea),Gastrointestinal,"ORS, Zinc",ORS after each stool,ORS + Zinc syrup,"Stool exam, Electrolytes",Dehydration risk,"ORS, banana, rice"
+Vomiting,Gastrointestinal,Ondansetron,4 mg SOS,0.15 mg/kg,"CBC, Electrolytes",Avoid dehydration,Small sips fluids
+Common Cold,ENT,"Paracetamol, Cetirizine",650 mg,10 mg/kg,Clinical,Avoid overdose,Steam inhalation
+Flu (Influenza),Respiratory,Oseltamivir,75 mg BD,Weight based,Rapid flu test,Complete course,"Rest, fluids"
+Fever (Viral),General,Paracetamol,650 mg,10 mg/kg,CBC,No NSAIDs,Cold sponging
+Cough,Respiratory,Dextromethorphan,10 ml,5 ml,Chest X-ray if chronic,Sedation,Honey (adult)
+Acidity,Gastrointestinal,Pantoprazole,40 mg OD,20 mg,Clinical,Long-term caution,Avoid spicy food
+Constipation,Gastrointestinal,Isabgol,2 tsp HS,1 tsp,Clinical,Fluid intake,Fiber diet
+Food Poisoning,Infectious,"ORS, Ciprofloxacin",As advised,As advised,Stool culture,Hydration,Light diet
+Sore Throat,ENT,Azithromycin,500 mg OD,10 mg/kg,Throat swab,Complete course,Warm saline gargle
