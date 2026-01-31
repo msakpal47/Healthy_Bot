@@ -9,9 +9,9 @@
  <body>
   <div class="container">
     <div class="hero">
-      <div class="brand-badge">Smart Health Assistance</div>
-      <div class="tagline">Quick, doctor-style consultation and PDF Q&A</div>
-      <button id="ingestBtn" class="glow-btn">Build Index</button>
+      <h1>Smart Health Assistant</h1>
+      <p>Quick, doctor-style consultation and PDF Q&A</p>
+      <button id="ingestBtn">Build Index</button>
     </div>
     <div class="consult-card" id="consultCard">
       <h2>Guided Consultation</h2>
@@ -56,6 +56,6 @@
        </div>
      </div>
    </div>
-   <script src="{{ url_for('static', filename='app.js') }}"></script>
+   <script src="{{ url_for('static', filename='app.js') }}?v={{ range(1, 10000) | random }}"></script>
  </body>
  </html>

@@ -1,0 +1,51 @@
+Open PowerShell.
+Navigate to the project:
+cd e:\Healthy
+Install dependencies (Python 3.12):
+py -3.12 -m pip install -r requirements.txt
+Start the app using the script:
+.\run.ps1
+Open the app in your browser:
+http://127.0.0.1:5000/
+Alternative Start
+
+Direct run without the script:
+py -3.12 app.py
+Optional: Set Data Path
+
+If your PDFs/CSV/Excel are not in e:\Healthy\Data, set the path before starting:
+$env:DATA_PATH = "C:\Users\rohit\Documents\2024\LLM\data"
+Verify Endpoints
+
+Test Q&A endpoint:
+Invoke-WebRequest -Uri http://127.0.0.1:5000/get_answer -Method POST -Body (@{question='What is dengue?'} | ConvertTo-Json) -ContentType 'application/json' | Select-Object -ExpandProperty Content
+Submit a consultation (example):
+[objectObject]
+payload=@name= 
+′
+ John 
+′
+ ;age=28;gender= 
+′
+ male 
+′
+ ;severity= 
+′
+ Mild 
+′
+ ;symptoms= 
+′
+ fever,headache 
+′
+ ;duration= 
+′
+ 2days 
+′
+ ;disease= 
+′
+ Dengue 
+′
+ ∣ConvertTo−JsonInvoke−WebRequest−Urihttp://127.0.0.1:5000/consult−MethodPOST−Bodypayload -ContentType 'application/json' | Select-Object -ExpandProperty Content
+Stop the Server
+
+Press CTRL+C in the terminal running the app.

@@ -1,22 +1,20 @@
-__pycache__/
-*.pyc
-*.pyo
+# Secrets and environment
+.env
 
-venv/
-env/
+# Logs and runtime artifacts
+app.log
+hf.log
 
-Data/*.pdf
+# Generated reports and data stores
 storage/
 vectorstore/
-*.sqlite
-*.faiss
-*.pkl
 
-healthy_local/
-healthy_aws/
+# Python caches
+__pycache__/
+*/__pycache__/
+.pytest_cache/
 
-.env
+# IDE/OS files
 .DS_Store
 Thumbs.db
 .vscode/
-.idea/
